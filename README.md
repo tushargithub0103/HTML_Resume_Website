@@ -1,2 +1,37 @@
-# HTML_Resume_Website
-HTML only resume website showcasing frontend fundamentals, semantic tags, structured layout, and clean information architecture. Built as a foundational web development project.
+<img width="1378" height="964" alt="image" src="https://github.com/user-attachments/assets/e8a60f7a-9c0e-4a37-87b3-c663c393ab6a" />
+
+# Resume Website (HTML Only)
+
+## Overview
+This project is a single-page resume website built using only HTML.  
+It demonstrates clean structure, semantic tags, and proper layout without CSS.
+
+## Features
+- Header with name and title
+- About section
+- Skills list
+- Experience table
+- Projects section
+- Education table
+- Contact information
+- Fully structured using semantic HTML
+
+## Technologies Used
+- HTML5 only
+
+## Setup Instructions
+1. Clone the repository
+2. Open index.html in any browser
+
+OR
+
+Visit live site:
+👉 https://yourusername.github.io/resume-single-page-html/
+
+## Screenshots
+### Desktop View
+![Desktop](screenshots/full-page.png)
+
+## Author
+Tushar
+Frontend Developer | UI/UX Enthusiast
