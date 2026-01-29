@@ -1,4 +1,4 @@
-<img width="1378" height="964" alt="image" src="https://github.com/user-attachments/assets/e8a60f7a-9c0e-4a37-87b3-c663c393ab6a" />
+z<img width="1378" height="964" alt="image" src="https://github.com/user-attachments/assets/e8a60f7a-9c0e-4a37-87b3-c663c393ab6a" />
 
 # Resume Website (HTML Only)
 
@@ -25,12 +25,9 @@ It demonstrates clean structure, semantic tags, and proper layout without CSS.
 
 OR
 
-Visit live site:
-👉 https://yourusername.github.io/resume-single-page-html/
-
-## Screenshots
-### Desktop View
-![Desktop](screenshots/full-page.png)
+## Live Demo
+You can view the deployed resume website here:
+👉 https://tushargithub0103.github.io/HTML_Resume_Website
 
 ## Author
 Tushar
