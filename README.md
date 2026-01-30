@@ -1,4 +1,4 @@
-<img width="1378" height="964" alt="image" src="https://github.com/user-attachments/assets/e8a60f7a-9c0e-4a37-87b3-c663c393ab6a" />
+<img width="1651" height="1079" alt="image" src="https://github.com/user-attachments/assets/fdc47ed5-1917-4418-a9c1-1cb91351f4d3" />
 
 # Resume Website (HTML Only)
 
